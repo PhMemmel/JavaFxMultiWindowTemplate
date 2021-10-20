@@ -12,7 +12,7 @@ plugins {
 sourceCompatibility = 11
 targetCompatibility = 11
 
-def mainClassName = "nqgy2.sep.socketpingpong.ShellMain"
+def mainClassName = "edv.memmel.example.Main"
 
 application {
     mainClass.set(mainClassName)
